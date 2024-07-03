@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/Pancham555/aadi-foundation-workshop",
+  "homepage": "https://Pancham555.github.com/aadi-foundation-workshop",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
