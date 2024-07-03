@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/Screenshot (108).png";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Pseudo Blog posts, MERN Stack app",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Made with Next.js, tailwind css, shadcn; for the frontend and express, mongoose, mongoDB; for the backend, in typescript. It is a posts app, similar to twitter/x, where you need to signup/login to write posts, can be updated and deleted, alongwith the like and comments features, available beneath the post.",
+    url: "https://github.com/Pancham555/banao-mern-task-2",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Ecommerce web app with strapi",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Made and e-commerce site with strapi, postgresql, cloudinary in the backend, Next.js, tailwind css in the frontend.",
+    url: "https://drip-vault.vercel.app/",
   },
   {
-    title: "My Resume Site",
+    title: "My Blog Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created with Next.Js, tailwind css and MDX. Here, I post blogs about my current learnings.",
+    url: "https://www.zenithstech.com",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "React Native News app",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Developed a React Native news app that fetches data from an API and presents it to users. The app also features an integrated weather viewer and a straightforward note-taking functionality.",
+    url: "https://drive.google.com/file/d/1fn0xeTFufhmh5DCpU1_znMSmHoiZe8Ve/view",
   },
 ];
 
